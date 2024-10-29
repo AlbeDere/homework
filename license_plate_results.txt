@@ -1,0 +1,11 @@
+Image ID/URL: cars/8/398752.jpg, License Plate: LCC278, Confidence: 0.82
+Image ID/URL: cars/8/398758.jpg, License Plate: GCC278, Confidence: 0.88
+Image ID/URL: cars/2/10.jpg, License Plate: JLF287, Confidence: 0.78
+Image ID/URL: cars/2/22.jpg, License Plate: JLF287, Confidence: 0.82
+Image ID/URL: cars/2/1.jpg, License Plate: RLF287, Confidence: 0.78
+Image ID/URL: cars/7/139.jpg, License Plate: KNO677, Confidence: 0.65
+Image ID/URL: cars/5/441489.jpg, License Plate: BKV506, Confidence: 0.85
+Image ID/URL: cars/5/441159.jpg, License Plate: REX306, Confidence: 0.82
+Image ID/URL: cars/6/102.jpg, License Plate: MOB785, Confidence: 0.85
+Image ID/URL: cars/6/108.jpg, License Plate: MOB785, Confidence: 0.88
+Image ID/URL: cars/6/121.jpg, License Plate: MOB785, Confidence: 0.85
